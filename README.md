@@ -1,29 +1,46 @@
-## Lisensi
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-MIT License
+Simple, fast routing engine.
+Powerful dependency injection container.
+Multiple back-ends for session and cache storage.
+Expressive, intuitive database ORM.
+Database agnostic schema migrations.
+Robust background job processing.
+Real-time event broadcasting.
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-Copyright (c) 2020 Galih Pratama
+Learning Laravel
+Laravel has the most extensive and thorough documentation and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+If you don't feel like reading, Laracasts can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Laravel Sponsors
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel Patreon page.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Premium Partners
+Vehikl
+Tighten Co.
+Kirschbaum Development Group
+64 Robots
+Cubet Techno Labs
+Cyber-Duck
+Many
+Webdock, Fast VPS Hosting
+DevSquad
+Curotec
+OP.GG
+CMS Max
+WebReinvent
+Lendio
+Romega Software
+Contributing
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the Laravel documentation.
 
-<hr>
+Code of Conduct
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the Code of Conduct.
 
-Source code ini HANYA DAPAT DIGUNAKAN untuk member kelas BWAStore dan tidak diizinkan untuk disebarkan kepada pihak selain member kelas BWAStore.
+Security Vulnerabilities
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via taylor@laravel.com. All security vulnerabilities will be promptly addressed.
 
-Jika anda mendapatkan konten video dan dokumentasi ini dari pihak selain BelajarKoding atau BuildWith Angga, dan bukan dari bagian member BWAStore, anda tidak diperkenankan untuk menggunakan source code ini.
+License
+The Laravel framework is open-sourced software licensed under the MIT license.
